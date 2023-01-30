@@ -1,0 +1,19 @@
+body{
+    background: white;
+}
+.navbar-brand{
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+.col img{
+    margin-top: 200px;
+}
+.build{
+    margin-top: 255px;
+    font-size: 21px ;
+}
+
+span {
+    color: blue;
+}
